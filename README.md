@@ -100,3 +100,70 @@ make an account, so that tomorrow all of us collaborate on a 15-minute problem, 
 [13/07, 18:25] Yohaan: so python guys ->  about python -> practicing here is the best choice https://www.hackerrank.com/domains/python
 try to get 5 stars in python you will get a badge will help you understand all basic data structure problems etc then these problems become v easy
 [13/07, 18:25] Yohaan: hackerrank has cpp and other lang also  so actually all lang guys
+
+
+
+[14/07, 16:58] Yohaan: Also we use this platform binarysearch.io to practice together, (we can all chat while solving together) it's really simple easy problems and no input output any language
+[16/07, 17:06] Yohaan: https://www.youtube.com/watch?v=SsmNI3Mlp0I 
+
+GFG is one of the best resources if you use it properly, check these out, really high quality vids
+[16/07, 17:07] Yohaan: https://www.youtube.com/watch?v=07QCAJYolaE nice vid for beginners where to start etx
+[17/07, 12:07] Yohaan: https://www.youtube.com/watch?v=fm7tTWy-H-E
+[17/07, 12:07] Yohaan: https://www.youtube.com/watch?v=gaPdjwuFZTs
+[17/07, 12:10] Yohaan: https://www.youtube.com/watch?v=c_w2LhuiJ1o
+[17/07, 12:14] Yohaan: send your username link here after making an account, then click on the star near others profiles to add them as friends :)
+[17/07, 12:14] Yohaan: I'll add you to a bti codeforces team
+[17/07, 12:20] Yohaan: Accounts :-
+
+https://codeforces.com/profile/yozaam
+[17/07, 12:24] Yohaan: Guys, this is a valuable experience as Google codejam, Google kiskstart, acm icpc all follow the same rules, so try it out, I'm sure the first problem will be easy enough
+[17/07, 18:32] Yohaan: btw -> when you friend someone on codeforces they dont get anotifiaction so just put you rname here to get added to the team
+[17/07, 18:33] Yohaan: THE TEAM IS NOT NECESSARY FOR THE CONTEST, to TAKE PART IN THE CONTEST JUST CLICK ON THE CONTEST LINK AND START
+[17/07, 18:35] Yohaan: https://www.youtube.com/watch?v=NWB2WfSFOUE Fantastic explanation!
+[18/07, 01:11] Yohaan: Hey guys before competitive coding it's best to learn a language properly the Hackerrank tracks
+
+ - > they are not problem solving they are for learning the language syntax properly
+[22/07, 16:35] Yohaan: fantastic article -> https://luckytoilet.wordpress.com/2016/12/23/are-programming-competitions-a-good-use-of-time/ TLDR: upto 1800 rating it is very useful then not so much for interviews etc :D
+[23/07, 23:31] Yohaan: https://medium.com/leetcode-patterns
+
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+
+https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+
+
+
+Patterns is is great way to approach problems if you want to level up quickly
+[24/07, 14:02] Yohaan: https://www.youtube.com/watch?v=JXTVOyQpSGM advanced video but you could try similar stuff in python etc
+[24/07, 15:42] Yohaan: https://www.quora.com/What-is-the-technique-to-create-an-iterative-DP-solution-from-its-recursive-solution amazing shuffle technique in anant nags answer!!! i have never seen this dp technique before
+[24/07, 15:43] Yohaan: so when we do 2d table in dp, we know we can make it O ( row * col) -> O (row) by using one array but even if we use two arrays only O (2*row) is still O (row)
+
+read anant nags ans you will get it
+[24/07, 15:44] Yohaan: "We're almost done. We promised that we'll optimize the space. Notice that when we fill a row, we only need previous one row and not all previous rows. Thus we need O(r) auxiliary space and we can shuffle between current and previous rows. "
+
+I can share just the ans lol https://qr.ae/pNskGf
+[28/07, 11:42] Yohaan: https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/solutions
+[28/07, 16:30] Yohaan: https://www.geeksforgeeks.org/queue-using-stacks/ last method 🙀
+
+Should we share interesting problems from gfg/anywhere whenever one of us encounters them?
+[28/07, 16:31] Yohaan: Asked in: Inmobi, Accolite, Adobe, Amazon, DE Shaw, Flipkart, Goldman Sachs, InfoEdge, MakeMyTrip, Microsoft, Oracle
+[28/07, 16:36] Yohaan: https://www.geeksforgeeks.org/counting-inversions/  https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/ https://mindyourdecisions.com/blog/2011/02/22/one-mile-south-one-mile-east-one-mile-north-a-classic-puzzle/  https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/  https://www.geeksforgeeks.org/hoares-vs-lomuto-partition-scheme-quicksort/   https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/   https://massivealgorithms.blogspot.com/2018/04/leetcode-787-cheapest-flights-within-k.html  https://www.geeksforgeeks.org/c-c-program-for-calling-main-in-main/?ref=leftbar-rightbar  https://www.topcoder.com/binary-stride-a-variant-on-binary-search/   http://tiancao.me/Leetcode-Unlocked/LeetCode%20Locked/c1.6.html  some of my favorites
+[28/07, 18:20] Yohaan: https://binarysearch.io/room/Bytesize-pointers-28362 easy
+[29/07, 14:24] Yohaan: https://learndigital.withgoogle.com/digitalgarage/courses/category/data_tech good stuff
+[29/07, 14:59] Yohaan: https://iq.opengenus.org/rod-cutting-problem/
+
+Nice website, classic dp problem
+[31/07, 20:41] Yohaan: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ fantastic problem! binary search or priority_queue solutions
+
+https://www.youtube.com/watch?v=MWYFvdWje7c&t=116s easiest sol.
+
+https://www.youtube.com/watch?v=G5wLN4UweAM also if someone understood optimised count of ≤ please tell me, i understood how to count using a binary search on each row, but not the method used in this video for counting
+
+AND THIS crazy solution that i am struggling to understand
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/85170/O(n)-from-paper.-Yes-O(rows)
+[31/07, 23:02] Yohaan: https://www.youtube.com/watch?v=8ZhoeSaPF-k
+[01/08, 14:31] Yohaan: https://leetcode.com/explore/featured/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/ Leetcode august challenge is here, definitely recommend doing it , one problem is released everyday, you can usually solve in 30 miins or read the solution and then solve if you are not able to
+[01/08, 18:23] Yohaan: https://qr.ae/pNsVpB
+
+    "You can’t make a baby in a month making nine women pregnant."
+ 😂what a answer
+[01/08, 22:37] Yohaan: https://atcoder.jp/contests/abc174 atcoder begginer contests are the easiest
