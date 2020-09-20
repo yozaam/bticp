@@ -1,4 +1,4 @@
-# bticp
+# bti competitive programming
 
 ## if anyone wants to format this please go ahead ;)
 
